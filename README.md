@@ -5,4 +5,4 @@
 3. javascript
 
 ## Acerca del programador
-Autor : Francia Minaya Jhon Edward
+Autor : Llancari Vicerrel Luis
